@@ -1,6 +1,6 @@
 Package: adlift
-Version: 1.4-1
-Date: 2018-07-09
+Version: 1.4-6
+Date: 2025-04-08
 Title: An Adaptive Lifting Scheme Algorithm
 Author: Matt Nunes [aut, cre], Marina Knight [aut], Guy Nason [ctb, ths] 
 Authors@R: c(person("Matt","Nunes", role=c("aut","cre"),email="nunesrpackages@gmail.com"), person("Marina","Knight", role="aut"), person("Guy","Nason",role=c("ctb","ths")))
